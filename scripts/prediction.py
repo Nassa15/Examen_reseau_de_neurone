@@ -22,7 +22,7 @@ CLASSES_PATH = "../Modele/classes.txt"
 # FICHIER AUDIO À TESTER
 # =========================================================
 
-AUDIO_TEST = "../donnees/test/Nassa/28.wav"
+AUDIO_TEST = "../donnees/test/Nassa/30.m4a"
 
 
 # =========================================================
